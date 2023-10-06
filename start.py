@@ -1,0 +1,15 @@
+﻿print( 'GameOver', 'QU', "S" * 10 + 5 * "R")
+print("\a")
+print(18 * 7)
+print(20 / 6)
+print(20 // 6)
+print(20 % 6)
+print(20 / 5 - 1)
+print(20 / (5 - 1))
+name = input("Name?")
+print("Hello, ", name)
+
+a = input("a")
+b = input("b")
+print("a/b=", a / b)
+input( "\n\n\nPress ENTER to exit..." );
